@@ -1,0 +1,4 @@
+syntax: regexp
+^\.vs/.*$
+^csbaseline/bin/.*$
+^csbaseline/obj/.*$
